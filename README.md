@@ -1,3 +1,2 @@
-# hello-word
-I don't know what I am doing, but okey :) am writing sth 
-
+# Main
+I presume that it's a core of the project and I should create some branches
